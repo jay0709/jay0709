@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/loveheart_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loveheart_07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayabrata-chakraborty-176a8248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayabrata-chakraborty-176a8248/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayabrata-chakraborty-176a8248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayabrata-chakraborty-176a8248/" height="30" width="40" /></a>
 <a href="https://medium.com/@jayabrata.btech0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jayabrata.btech0711" height="30" width="40" /></a>
 </p>
 
